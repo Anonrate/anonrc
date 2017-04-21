@@ -8,7 +8,7 @@ filet off
 se rtp+=~/.vim/bundle/Vundle.vim
 cal vundle#begin('~/.vim/bundle')
 Plugin 'VundleVim/Vundle.vim'
-Plugin 'delimitMate.vim'
+Plugin 'Raimondi/delimitMate'
 Plugin 'tpope/vim-fugitive'
 Plugin 'qpkorr/vim-bufkill'
 Plugin 'airblade/vim-gitgutter'
